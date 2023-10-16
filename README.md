@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MorquinDevlar
+- 👋 Hi, I’m @Morquin
 - 👀 I’m interested in Mudlet scripting and UI development
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on a Mudlet UI for asteriamud.com
