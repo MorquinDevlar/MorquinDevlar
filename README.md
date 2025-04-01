@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Morquin
 - 👀 I’m interested in Mudlet scripting and UI development
 - 🌱 I’m currently learning Lua, Python and Go
-- 💞️ Working on GoMud on building a default UI
+- 💞️ Working on GoMud, building a default Mudlet UI
 - 📫 How to reach me morquin@morquin.dk or Morquin in Discord
 
 <!---
